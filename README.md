@@ -1,7 +1,7 @@
 # Aayushi Verma - Portfolio
 
 ## Live Portfolio
-**https://vercel.com/aayushis-projects-5ad79fa2/aayushi-portfolio/6WRDJDSB8H68Z3iPe9WB8bQAtYUf**
+**([Vercel Link](https://aayushi-portfolio-three.vercel.app))**
 
 ## About
 Professional portfolio showcasing my skills, projects, internships, and education in Computer Science & Engineering with specialization in AI, ML & Robotics.
@@ -29,4 +29,4 @@ Professional portfolio showcasing my skills, projects, internships, and educatio
 
 ---
 
-**Portfolio Link:** https://vercel.com/aayushis-projects-5ad79fa2/aayushi-portfolio/6WRDJDSB8H68Z3iPe9WB8bQAtYUf
+**Portfolio Link:** https://aayushi-portfolio-three.vercel.app
